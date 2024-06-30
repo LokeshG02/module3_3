@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity 0.8.18;
 
-import "IREC20.sol";
+import "IERC20.sol";
 import "context.sol";
 
 /**
