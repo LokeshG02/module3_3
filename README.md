@@ -3,9 +3,11 @@
 
 ## DESCRIPTION
 Written in Solidity, a programming language used to create smart contracts on the Ethereum blockchain, this program is a straightforward contract. The following are the functions of the contract:
+
 1.Only contract owner should be able to mint tokens
 2.Any user can transfer tokens
 3.Any user can burn tokens
+
 ### Executing program
 
 To run this program, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at https://remix.ethereum.org/.
