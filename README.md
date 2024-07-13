@@ -1,5 +1,6 @@
 # Types of Functions - ETH + AVAX
 
+Smart contract to create your own ERC20 token and deploy it using HardHat or Remix
 
 ## DESCRIPTION
 Written in Solidity, a programming language used to create smart contracts on the Ethereum blockchain, this program is a straightforward contract. The following are the functions of the contract:
@@ -31,4 +32,8 @@ Once the contract is deployed, you can interact with it by calling the requireIn
 Lokesh Gupta
 
 guptalokesh2622004@gmail.com
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details
 
