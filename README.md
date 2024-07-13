@@ -8,9 +8,13 @@ Written in Solidity, a programming language used to create smart contracts on th
 2.Any user can transfer tokens
 3.Any user can burn tokens
 
-### Executing program
+## Getting Started
+
+## Installing
 
 To run this program, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at https://remix.ethereum.org/.
+
+### Executing program
 
 Once you are on the Remix website, create a new file by clicking on the "+" icon in the left-hand sidebar. Save the file with a .sol extension (e.g., HelloWorld.sol). Copy and paste the code from contract.sol file into your file:
 
@@ -21,6 +25,7 @@ Once the code is compiled, you can deploy the contract by clicking on the "Deplo
 Once the contract is deployed, you can interact with it by calling the requireInstance, assertInstance and revertInstance function.
 
 ## Authors
-Lokesh Gupta
 
+Lokesh Gupta
+guptalokesh2622004@gmail.com
 
